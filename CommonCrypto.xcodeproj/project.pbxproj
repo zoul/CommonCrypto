@@ -236,6 +236,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = cz.zoul.CommonCrypto;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "appletvsimulator appletvos macosx iphonesimulator iphoneos watchsimulator watchos";
+				VALID_ARCHS = "i386 x86_64 arm64";
 			};
 			name = Debug;
 		};
@@ -256,6 +258,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = cz.zoul.CommonCrypto;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "appletvsimulator appletvos macosx iphonesimulator iphoneos watchsimulator watchos";
+				VALID_ARCHS = "i386 x86_64 arm64";
 			};
 			name = Release;
 		};
