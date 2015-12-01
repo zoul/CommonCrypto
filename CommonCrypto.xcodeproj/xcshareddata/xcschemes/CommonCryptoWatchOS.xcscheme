@@ -14,48 +14,6 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0DD0E5141C0DA07A0010B0F6"
-               BuildableName = "CommonCrypto.framework"
-               BlueprintName = "CommonCryptoIOS"
-               ReferencedContainer = "container:CommonCrypto.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0DD0E4ED1C0D9F4E0010B0F6"
-               BuildableName = "CommonCrypto.framework"
-               BlueprintName = "CommonCryptoOSX"
-               ReferencedContainer = "container:CommonCrypto.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0DD0E4FA1C0D9FF60010B0F6"
-               BuildableName = "CommonCrypto.framework"
-               BlueprintName = "CommonCryptoTV"
-               ReferencedContainer = "container:CommonCrypto.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
                BlueprintIdentifier = "0DD0E5071C0DA0330010B0F6"
                BuildableName = "CommonCrypto.framework"
                BlueprintName = "CommonCryptoWatchOS"
@@ -71,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0DD0E5141C0DA07A0010B0F6"
-            BuildableName = "CommonCrypto.framework"
-            BlueprintName = "CommonCryptoIOS"
-            ReferencedContainer = "container:CommonCrypto.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -96,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0DD0E5141C0DA07A0010B0F6"
+            BlueprintIdentifier = "0DD0E5071C0DA0330010B0F6"
             BuildableName = "CommonCrypto.framework"
-            BlueprintName = "CommonCryptoIOS"
+            BlueprintName = "CommonCryptoWatchOS"
             ReferencedContainer = "container:CommonCrypto.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -114,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0DD0E5141C0DA07A0010B0F6"
+            BlueprintIdentifier = "0DD0E5071C0DA0330010B0F6"
             BuildableName = "CommonCrypto.framework"
-            BlueprintName = "CommonCryptoIOS"
+            BlueprintName = "CommonCryptoWatchOS"
             ReferencedContainer = "container:CommonCrypto.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
