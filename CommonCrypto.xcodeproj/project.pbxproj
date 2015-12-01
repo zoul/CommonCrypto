@@ -223,6 +223,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0D2EDC801C0D8F3900AB6BD6 /* CommonCrypto.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
@@ -242,6 +243,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0D2EDC801C0D8F3900AB6BD6 /* CommonCrypto.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
@@ -276,6 +278,7 @@
 				0D2EDC7F1C0D8F0F00AB6BD6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
