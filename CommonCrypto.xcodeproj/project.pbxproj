@@ -480,6 +480,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0D2EDC801C0D8F3900AB6BD6 /* CommonCrypto.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -500,6 +501,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0D2EDC801C0D8F3900AB6BD6 /* CommonCrypto.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -522,6 +524,7 @@
 			baseConfigurationReference = 0D2EDC801C0D8F3900AB6BD6 /* CommonCrypto.xcconfig */;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -543,6 +546,7 @@
 			baseConfigurationReference = 0D2EDC801C0D8F3900AB6BD6 /* CommonCrypto.xcconfig */;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -564,7 +568,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0D2EDC801C0D8F3900AB6BD6 /* CommonCrypto.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -585,7 +589,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0D2EDC801C0D8F3900AB6BD6 /* CommonCrypto.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
