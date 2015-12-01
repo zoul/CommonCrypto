@@ -1,1 +1,2 @@
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+* Install by hand or using [Carthage](https://github.com/Carthage/).
+* Don’t forget to mark the framework as Optional, not Required.
